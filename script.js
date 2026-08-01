@@ -252,7 +252,7 @@ document.addEventListener("keydown",(e)=>{
 
 function createHearts() {
 
-    for (let i = 0; i < 40; i++) {
+    for (let i = 0; i < 15; i++) {
 
         setTimeout(() => {
 
@@ -288,7 +288,7 @@ function createHearts() {
 
 function createSparkles(){
 
-    for(let i=0;i<60;i++){
+    for(let i=0;i<20;i++){
 
         setTimeout(()=>{
 
@@ -458,7 +458,7 @@ function createConfetti(){
 
     confettiPieces = [];
 
-    for(let i = 0; i < 100; i++){
+    for(let i = 0; i < 40; i++){
 
         confettiPieces.push({
 
