@@ -461,7 +461,7 @@ function createConfetti(){
 
     confettiPieces = [];
 
-    for(let i = 0; i < 250; i++){
+    for(let i = 0; i < 100; i++){
 
         confettiPieces.push({
 
