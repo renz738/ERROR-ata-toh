@@ -93,8 +93,7 @@ startBtn.addEventListener("click",()=>{
 
 const message = `Hi!
 Would you like to watch the new Spider-Man movie with me?
-Snacks are on me, and we'll buy our tickets together when we get there.
-All you have to do is say yes.`;
+its my treat since im the one whos inviting you 😁.`;
 
 let index = 0;
 
