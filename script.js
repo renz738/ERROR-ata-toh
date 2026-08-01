@@ -91,21 +91,13 @@ startBtn.addEventListener("click",()=>{
 // TYPEWRITER
 // ==============================
 
-const message =
-
-`Hi! 😊
-
-I was wondering...
+const message = `Hi! 😊
 
 Would you like to watch the new Spider-Man movie with me?
 
-🍿 Snacks and drinks are on me.
+🍿 Snacks are on me, and we'll buy our tickets together when we get there.
 
-🎟️ We'll buy our tickets together when we get there.
-
-The only thing you have to bring...
-
-is yourself. ❤️`;
+All you have to do is say yes. ❤️`;
 
 let index = 0;
 
